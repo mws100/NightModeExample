@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  NightModeDemo
+//
+//  Created by 马文帅 on 17/2/21.
+//  Copyright © 2017年 mawenshuai. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "UIImage+KGExtension.h"
+#import "UIColor+KGExtension.h"
+
+#define KGSkinStyle @"KGSkinStyle"
+
+#endif /* PrefixHeader_pch */
